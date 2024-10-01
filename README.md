@@ -15,7 +15,7 @@
  
  🌱 I’m currently learning **Machine Learning**
 
-💬 Ask me about **C, C++, Python... or anything [here](https://github.com/TimofeyIvanenko/issues)**
+💬 Ask me about **C, C++, Python... or anything [here](https://github.com/TimofeyIvanenko/questions)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 

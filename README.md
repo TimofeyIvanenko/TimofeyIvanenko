@@ -15,7 +15,7 @@
  
  🌱 I’m currently learning **Machine Learning**
 
-💬 Ask me about **C, C++, Python... or anything [here](https://github.com/TimofeyIvanenko/questions)**
+💬 Ask me about Python... or anything [here](https://github.com/TimofeyIvanenko/questions)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -25,14 +25,13 @@
   <a href="mailto:timaivanenko15@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="[https://linkedin.com/in/pedro-sales-muniz](https://www.linkedin.com/in/%D1%82%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B9-%D0%B8%D0%B2%D0%B0%D0%BD%D0%B5%D0%BD%D0%BA%D0%BE-994b312b5/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://www.linkedin.com/in/timofey-ivanenko/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <!--
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon 
+  <a href="https://drive.google.com/file/d/1LoN1Lqu5a6xP-BBRp_9ApJSn_0wfG3F6/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
-  -->
+  
 </div>
 
  <hr/>

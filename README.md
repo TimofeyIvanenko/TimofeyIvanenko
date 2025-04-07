@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/timofey-ivanenko/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1LoN1Lqu5a6xP-BBRp_9ApJSn_0wfG3F6/view?usp=sharing" target="_blank">
+  <a href="https://www.linkedin.com/in/timofeyivanenko/overlay/1736482980634/single-media-viewer/?profileId=ACoAAEvO00AByEHPyA3d3a-jMA0f1iacwhyMRYs" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
   

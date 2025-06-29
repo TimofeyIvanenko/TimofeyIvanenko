@@ -29,7 +29,7 @@
 ### 📫 Contact Me
 
 <div align="center">
-  <a href="mailto:timaivanenko15@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a><a href="https://www.linkedin.com/in/timofey-ivanenko/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://www.linkedin.com/in/timofeyivanenko/overlay/1736482980634/single-media-viewer/?profileId=ACoAAEvO00AByEHPyA3d3a-jMA0f1iacwhyMRYs" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
+  <a href="mailto:timaivanenko15@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a><a href="[https://www.linkedin.com/in/timofey-ivanenko/](https://www.linkedin.com/in/timofeyivanenko/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://www.linkedin.com/in/timofeyivanenko/overlay/1736482980634/single-media-viewer/?profileId=ACoAAEvO00AByEHPyA3d3a-jMA0f1iacwhyMRYs" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
 </div>
 
 ---
